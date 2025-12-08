@@ -4,6 +4,15 @@ const projects = [
   // Add project objects here
   {
     id: 1,
+    name: "NewsAI",
+    description:
+      "News website providing latest updates, articles, and multimedia content on various topics by emailing you everyday.",
+    imageUrl: "/projects/news.png",
+    tags: ["Next.js", "Tailwind CSS","Typescript" ,"Supabase","OpenAI", "NewsAPI"],
+    projectUrl: "https://newsai-orpin.vercel.app/signin",
+  },
+    {
+    id: 2,
     name: "Navanirmithi",
     description:
       "Construction company website showcasing services, projects, and modern responsive design.",
@@ -11,6 +20,7 @@ const projects = [
     tags: ["React", "Tailwind CSS", "JavaScript"],
     projectUrl: "https://navanirmithi.co.in/",
   },
+
   {
     id: 2,
     name: "Network Intrusion Detection System (NIDS) - DSSTE",
@@ -60,7 +70,7 @@ const projects = [
       "A web application that allows users to search for food recipes by entering ingredients, fetching data from a recipe API.",
     imageUrl: "/projects/foodrecipe.png",
     tags: ["React", "Tailwind CSS", "JavaScript", "Edamam API"],
-    projectUrl: "https://github.com/asifmajeed04/foodRecipe",
+    projectUrl: "https://asifmajeed04.github.io/foodRecipe/",
   },
   {
     id: 5,

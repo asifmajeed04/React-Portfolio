@@ -32,7 +32,7 @@ export const AboutMe = () => {
                 Get In Touch
               </a>
               <a
-                href=""
+                href="https://drive.google.com/file/d/1QjnF0eM5MCHycXieIPuoLTvyqp7YP0NU/view?usp=sharing"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download Resume
